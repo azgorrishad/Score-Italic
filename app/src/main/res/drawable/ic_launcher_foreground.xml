@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Victory Star symbol (Brushed Gold) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,20 L58.2,33.5 L72,33.5 L61,42 L65.2,55.5 L54,47 L42.8,55.5 L47,42 L36,33.5 L49.8,33.5 Z" />
+        
+    <!-- Italian Tricolore vertical bars beneath Star -->
+    <!-- Green Bar -->
+    <path
+        android:fillColor="#008C45"
+        android:pathData="M38,65 L46,65 L46,85 L38,85 Z" />
+        
+    <!-- White Bar -->
+    <path
+        android:fillColor="#F4F9FF"
+        android:pathData="M50,65 L58,65 L58,85 L50,85 Z" />
+        
+    <!-- Red Bar -->
+    <path
+        android:fillColor="#CD212A"
+        android:pathData="M62,65 L70,65 L70,85 L62,85 Z" />
+        
+</vector>

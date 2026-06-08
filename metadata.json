@@ -1,0 +1,6 @@
+{
+  "name": "Score Italy",
+  "description": "A polished offline scoreboard tracker for Italian card games. It features customizable match setups, premium visual themes, full round history with undo capabilities, automated winner celebrations, and performance statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
